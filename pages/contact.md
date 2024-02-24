@@ -1,10 +1,13 @@
 
-_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/README.md)
+_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/pages/contact.md)
 
-*Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/Madouck/markdown-pages) are rendered on [this website](https://madouck.github.io/markdown-pages/) via GitHub Pages.*
+[![GitHub Logo](assets/user/github.png)](https://github.com/Madouck/markdown-pages)
+[Home](.)
+[contact](?page=contact)
 
 ---
-| [Accueil](?page=accueil) | [Activités](?page=activites) | [Objectifs & Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) | [Contact](?page=contact) |
-|---|---|---|---|---|
-
-Go back to [Home page](.).
+| [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
+Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
+- [Eric](mailto:eric.masson@univ-lille.fr)
+- [Damien](mailto:damien.arvor@gmail.com)
+- [Raphaëlle](mailto:raphaelle.krummeich@univ-rouen.fr)
