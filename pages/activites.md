@@ -1,8 +1,11 @@
 
-![markdown logo](./assets/user/markdown.svg)
 
-# Markdown Pages - Sample Page
+_`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/README.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/Madouck/markdown-pages) are rendered on [this website](https://madouck.github.io/markdown-pages/) via GitHub Pages.*
+
+---
+| [Accueil](?page=accueil) | [Activités](?page=activites) | [Objectifs & Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) | [Contact](?page=contact) |
+|---|---|---|---|---|
 
 Go back to [Home page](.).

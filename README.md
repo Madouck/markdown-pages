@@ -2,8 +2,11 @@
 _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/README.md)
 
 *Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/Madouck/markdown-pages) are rendered on [this website](https://madouck.github.io/markdown-pages/) via GitHub Pages.*
+
+---
 | [Accueil](?page=accueil) | [Activités](?page=activites) | [Objectifs & Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) | [Contact](?page=contact) |
 |---|---|---|---|---|
+
 ![logo](img/2021-02_Logo-GDR_MAGIS_AR4.png)
 
 Action de recherche n°4 du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
