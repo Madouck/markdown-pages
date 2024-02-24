@@ -11,9 +11,10 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 | [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
 |---|---|---|
 
-Accéder à la bibliothèque du [groupe zotero](https://www.zotero.org/groups/5401797/magisar4).
+**[|> Accéder à la bibliothèque du groupe zotero GdR MAGIS|AR4](https://www.zotero.org/groups/5401797/magisar4).
 
   Arp, R., Smith, B., & Spear, A. D. (2015). Building ontologies with Basic Formal Ontology. Massachusetts Institute of Technology.  
+
   Bennett, B. (2001). What Is a Forest? on the Vagueness of Certain Geographic Concepts. Topoi, 20(2), 189–201. [https://doi.org/10.1023/A:1017965025666](https://doi.org/10.1023/A:1017965025666)
 
   Bouleau, N. (2017). Penser l’éventuel. Editions Quae. [https://doi.org/10.3917/quae.boule.2017.01](https://doi.org/10.3917/quae.boule.2017.01) 
