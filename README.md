@@ -5,28 +5,29 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 
 ![logo](img/2021-02_Logo-GDR_MAGIS_AR4.png)
 
+Action de recherche n°4 du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
+
 ## Sommaire
 
 - [Contact](#contact)
-- [Activités](#activités)
-- [Ontologies géospatiales : progrès et challenges ouverts](#ontologies-géospatiales-progrès-et-challenges-ouverts) 
-- [Images](#images)
+- [Activités](#activités)  
+    - [30/03/2022 - Ontologies géospatiales : progrès et challenges ouverts, Christophe Claramunt](#ontologies-géospatiales-progrès-et-challenges-ouverts) 
+- [Présentation de l'AR](#présentation-de-l-AR)  
+    - [Objectifs scientifiques](#objectifs-scientifiques)  
 - [Styles](#styles)
 - [Limitations](#limitations)
 - [Todo](#todo)
 
 
-Action de recherche du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
-
-![logo](img/Logo-GDR_MAGIS_2048x579_AR4.png)
 
 ## Contact
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
 - [Eric](mailto:eric.masson@univ-lille.fr)
 - [Damien](mailto:damien.arvor@gmail.com)
 - [Raphaelle](mailto:raphaelle.krummeich@univ-rouen.fr)
-- et/ou [vous inscrire](
-https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion ontodisciplinarite@groupes.renater.fr
+
+## Liste de diffusion
+Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sympa/subscribe/ontodisciplinarite) à la liste de diffusion `ontodisciplinarite@groupes.renater.fr`.
 
 ## Activités
 
