@@ -150,6 +150,10 @@ La dernière année, nous travaillerons sur la production d’un ouvrage synthé
   Munn, K., & Smith, B. (Eds.). (2008). Applied Ontology: An Introduction. DE GRUYTER. https://doi.org/10.1515/9783110324860  
   Richard, S. (2010). Analyse et ontologie: le renouveau de la métaphysique dans la tradition analytique. J. Vrin.  
   Small, C. (2021). Grand Challenges in Remote Sensing Image Analysis and Classification. Frontiers in Remote Sensing, 1, 605220. https://doi.org/10.3389/frsen.2020.605220  
+
+---
+---
+
 ## About
 
 With a focus on simple, text-based content, this template aims to simplify the creation of a Markdown-based website. There are numerous static site generators (like Jekyll and Hugo) that can use Markdown files for content; however, they require additional backend setup and configuration. In this case, much of that work is done on the frontend instead. 
