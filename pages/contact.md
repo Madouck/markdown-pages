@@ -5,7 +5,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 [Home](.)
 [contact](?page=contact)
 
-![entête](img/2021-02_Logo-GDR_MAGIS_AR4.png)
+![entête](img/2021-02_Icoentete-GDR_MAGIS_AR4.png)
 
 ---
 | [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |

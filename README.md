@@ -1,7 +1,8 @@
 
 _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/README.md)
 **[WORK IN PROGRESS]**
-*Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/Madouck/markdown-pages) are rendered on [this website](https://madouck.github.io/markdown-pages/) via GitHub Pages.*
+
+[**|> Lire en ligne**](https://madouck.github.io/markdown-pages/)
 
 ![logo](img/2021-02_Logo-GDR_MAGIS_AR4.png)
 
@@ -10,10 +11,9 @@ Action de recherche n°4 du [GdR CNRS MAGIS](https://gdr-magis.cnrs.fr/)
 ## Sommaire
 
 - [Contact](#contact)
+- [Liste de diffusion](#liste-de-diffusion)
 - [Activités](#activités)  
-    - [30/03/2022 - Ontologies géospatiales : progrès et challenges ouverts, Christophe Claramunt](#ontologies-géospatiales-progrès-et-challenges-ouverts) 
 - [Présentation de l'AR](#présentation-de-l-AR)  
-    - [Objectifs scientifiques](#objectifs-scientifiques)  
 
 ## Contact
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
@@ -28,57 +28,65 @@ Si vous le souhaitez, vous pouvez [vous inscrire](https://groupes.renater.fr/sym
 
 <!-- - [Liste des webinaires et accès aux présentations](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/tree/main/webinaires) -->
 
-### Ontologies géospatiales: progrès et challenges ouverts 
+### Webinaires 2023/2024
 
-- Présentateur : Christophe Claramunt
-- Date : Mercredi 30 mars 2022 - 14h-16h
-- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
+**[à venir]**
 
-### Annotation sémantique d'image médicales - les projets CYTOMINE et BigPicture
+### Webinaires 2022/2023
 
-- Présentateur : Raphael Marée
-- Date : 27 septembre 2022, 13h30-15h30
-- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/Cytomine_GIS_Sept2022.pdf)
+#### L'interdisciplinarité: taxonomie, flou et interalogie
 
-### Incorporating domain knowledge in the analysis of remote sensing data
+- Présentatrice : Deborah Nourrit
+- Date : Vendredi 26 mai 2023, 13h-15h
+
+#### Incorporating domain knowledge in the analysis of remote sensing data
 
 - Présentatrice : Mariana Belgiu
 - Date : Vendredi 20 janvier 2023, 13h30-15h30
 - [PDF](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
 
-### L'interdisciplinarité: taxonomie, flou et interalogie
+#### Annotation sémantique d'image médicales - les projets CYTOMINE et BigPicture
 
-- Présentatrice : Deborah Nourrit
-- Date : Vendredi 26 mai 2023, 13h-15h
+- Présentateur : Raphael Marée
+- Date : 27 septembre 2022, 13h30-15h30
+- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/Cytomine_GIS_Sept2022.pdf)
 
+#### Ontologies géospatiales: progrès et challenges ouverts 
 
-### Atelier des 28 & 29 novembre 2022 
+- Présentateur : Christophe Claramunt
+- Date : Mercredi 30 mars 2022 - 14h-16h
+- [PDF](https://github.com/MAGISAR4/project/blob/main/webinaires/GeoSpatialOntologiesCC.pdf)
+
+### Atelier thématique 28-29/11/2022 |  CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?
 
 En présentiel à la MSH Val de Loire & distanciel via Zoom. **28 et 29 novembre 2022**
 co-organisé avec le GT WebSem de la MSH Val de Loire et le GT SeWin du RTR DIAMS
-**Thème : CIDOC-CRM, une ontologie pivot pour l'interdisciplinarité ?**
 
 Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/raw/main/ateliers/Journ%C3%A9es_ontologies_websemantique_28-29Nov2022.pdf)
 
-#### Programme
+### Lundi 28 novembre 2022 
 
-- Lundi 28 novembre 2022 
+**10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num**
 
-    - 10h-12h - Groupe de Travail Web Sémantique MSH Val de Loire/Huma-Num  
-        - Projet européen 4CH ∙ Béatrice Markhoff  
-        - Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff  
-    - 14h-17h - AP Ontologies pour l'interdisciplinarité du GdR MAGIS (hybride)   
-        - Thérèse Libourel, présentation de WordNet  
-        - Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game  
+- Projet européen 4CH ∙ Béatrice Markhoff  
+- Web sémantique et ontologie pour une cartographie des compétences du patrimoine culturel : Yannick Duthé et Béatrice Markhoff  
 
-- mardi 29 novembre 2022
+**14h-17h - AP Ontologies pour l'interdisciplinarité du GdR MAGIS (hybride)**
 
-    - 9h-12h30 - GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)  
+- Thérèse Libourel, présentation de WordNet  
+- Olivier Marlet, présentation du CIDOC-CRM et Onto Match Game  
+
+### Mardi 29 novembre 2022
+
+**9h-12h30 - GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)**
+
         - Emilio Sanfilippo, Towards a formal model for scholarly interpretations  
         - Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙ 
         - Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs  
         - Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs  
-    - 14h-17h - GT SeWin du RTR DIAMS  
+
+**14h-17h - GT SeWin du RTR DIAMS**  
+
         - Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux  
         - Yannick Duthé, Cartographie des compétences du patrimoine culturel  
         - Christelle Loiselet, Actions pour la sémantisation des données au BRGM  
@@ -106,11 +114,11 @@ Mais ce potentiel doit être confirmé, et pour ce faire, il est essentiel de re
 
  Ainsi, l’AR choisit de proposer une réflexion scientifique selon deux grands axes :
  
-1. Agrégation et formalisation de connaissances interdisciplinaires dans les ontologies
+#### 1. Agrégation et formalisation de connaissances interdisciplinaires dans les ontologies
 
 Il s’agit ici d’évaluer comment construire des ontologies formalisées et opérables à partir de modèles de connaissance. Les GISciences ont la particularité de s’appuyer sur de nombreux concepts vagues et ambigus (Bennett, 2002), ce qui rend les méthodes Top-Down de construction d’ontologies, basées sur la recherche d’un consensus interdisciplinaire, difficiles à mettre en œuvre. Ainsi, certains auteurs prônent des approches bottom-up visant à agréger de la connaissance à partir de nombreuses ontologies applicatives développées localement (Janowicz, 2012).
 
-2. De la donnée à la connaissance : quel rôle pour les ontologies ?
+#### 2. De la donnée à la connaissance : quel rôle pour les ontologies ?
 
 La représentation de connaissance mais aussi les raisonnements (George, 1997) liant les corpus sont essentiels à la construction et à l'usage d'ontologies. Mais la question de l’interprétabilité des résultats issus des approches data-driven émerge fortement (Small, 2020) et les ontologies, de par leur capacité à transformer de la connaissance numérique en connaissance symbolique, pourraient apporter des éléments de réponse. Cependant le cheminement aboutissant à l'interprétation est certainement le moins connu (Bouleau, 2017). Il s’agit ici d’évaluer comment exploiter les ontologies pour guider le traitement et l’interprétation des données afin de produire des résultats interprétables et utiles.
 
