@@ -80,18 +80,18 @@ Télécharger le programme [en ligne ici](https://github.com/MAGISAR4/ontologies
 
 **9h-12h30 - GT WebSem de la MSH Val de Loire + AP Ontologies pour l'interdisciplinarité du GdR MAGIS + GT SeWin du RTR DIAMS (hybride)**
 
-        - Emilio Sanfilippo, Towards a formal model for scholarly interpretations  
-        - Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙ 
-        - Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs  
-        - Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs  
+- Emilio Sanfilippo, Towards a formal model for scholarly interpretations  
+- Béatrice Markhoff, Rôle et manifestations des terminologies dans le Web sémantique ∙ 
+- Thomas Francart, SPANATURAL, montrez les graphes de connaissances à vos utilisateurs  
+- Florian Hivert, OpenArchaeo un SPARNATURAL destiné à l’archéologie et à ses chercheurs  
 
 **14h-17h - GT SeWin du RTR DIAMS**  
 
-        - Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux  
-        - Yannick Duthé, Cartographie des compétences du patrimoine culturel  
-        - Christelle Loiselet, Actions pour la sémantisation des données au BRGM  
-        - Imad Laouici, Structuration de la connaissance en géologie structurale  
-        - Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans  
+- Béatrice Markhoff, Ontologie de jumeaux numériques patrimoniaux  
+- Yannick Duthé, Cartographie des compétences du patrimoine culturel  
+- Christelle Loiselet, Actions pour la sémantisation des données au BRGM  
+- Imad Laouici, Structuration de la connaissance en géologie structurale  
+- Christine Le-Bas, Annotation sémantique des données de l’INRAe Orléans  
 
 ## Présentation de l'AR
 

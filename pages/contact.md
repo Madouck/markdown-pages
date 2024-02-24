@@ -10,6 +10,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 ---
 | [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
 |---|---|---|
+
 Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
 - [Eric](mailto:eric.masson@univ-lille.fr)
 - [Damien](mailto:damien.arvor@gmail.com)
