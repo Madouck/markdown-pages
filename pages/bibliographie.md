@@ -11,7 +11,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 | [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
 |---|---|---|
 
-**[|> Accéder à la bibliothèque du groupe zotero GdR MAGIS|AR4](https://www.zotero.org/groups/5401797/magisar4).
+**[|> Accéder à la bibliothèque du groupe zotero GdR MAGIS|AR4](https://www.zotero.org/groups/5401797/magisar4)**
 
   Arp, R., Smith, B., & Spear, A. D. (2015). Building ontologies with Basic Formal Ontology. Massachusetts Institute of Technology.  
 
