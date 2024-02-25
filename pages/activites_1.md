@@ -12,4 +12,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 |---|---|---|
 | [Webinaire 2023/2024](?page=activites_1) | [Webinaire 2022/2023](?page=activites_2)| [Atelier CIDOC-CRM](?page=activites_3)|
 
-Si vous souhaitez contribuer aux activités de l'AR 4, n'hésitez pas à [contacter](?page=contact) l'équipe d'animation.
+### Webinaire 2024/2023
+
+**[Work in progress]**
+
