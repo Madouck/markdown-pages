@@ -10,6 +10,7 @@ _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/
 ---
 | [Activités](?page=activites) | [Objectifs/Programme](?page=objectifs-et-programme) | [Bibliographie](?page=bibliographie) |
 |---|---|---|
+
 [**|> Accès au support de présentation du 22 mars 2022**](https://github.com/MAGISAR4/ontologies_4_interdisciplinarity/blob/main/assises/AR_ontologies_interdisciplinarite_2022_22mars2022.pdf)
 
 ## Présentation de l'AR
