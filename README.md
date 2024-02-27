@@ -2,7 +2,7 @@
 _`Last Updated: 23/02/2024`_ [`edit`](https://github.com/Madouck/markdown-pages/blob/main/README.md)
 **[WORK IN PROGRESS]**
 
-[**|> Lire en ligne**](https://madouck.github.io/markdown-pages/)
+[**|> Lire en ligne**](https://magisar4.github.io/ontologies_4_interdisciplinarity/)
 
 ![logo](img/2021-02_Logo-GDR_MAGIS_AR4.png)
 
